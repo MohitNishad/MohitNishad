@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hello I am Mohit Nishad a Fullstack(Golang/Mern) developer based in india
+Hello I am Mohit Singh a Fullstack(Golang/Mern) developer based in india
 
 
 ## 🌐 Socials:
